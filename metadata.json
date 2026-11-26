@@ -1,0 +1,10 @@
+{
+  "uuid": "QuickSketch@local",
+  "name": "QuickSketch",
+  "description": "Draw directly over your desktop.",
+  "shell-version": [
+    "42"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.QuickSketch",
+  "version": 2
+}
