@@ -22,8 +22,9 @@ Built for quick explanations, brainstorming, visual problem-solving, and present
 Clone the repository:
 
 ```bash
-git clone https://github.com/Seraph919/QuickSketch.git
-cd QuickSketch
+
+git clone https://github.com/Seraph919/QuickSketch-GnomeShell-Extention.git
+cd QuickSketch-GnomeShell-Extention
 bash install.sh
 ```
 
